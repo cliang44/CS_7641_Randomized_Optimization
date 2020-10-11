@@ -25,12 +25,16 @@ For the neural network problem, run:
  - NN_ga.py
  - NN_rhc.py
  - NN_sa.py
- 
+
+For the neural network plot, run:
+ - NN-plots.ipynb
+
  For the three randomized optimization problems, run:
  - continuoutpeaks.py
  - tsp.py
  - flipflop.py
 
-
+For the randomized optimization problems plot, run:
+ - RO-plots.ipynb
 
 
