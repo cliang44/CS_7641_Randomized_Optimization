@@ -5,7 +5,7 @@ The code for this assignment can be found at https://github.com/cliang44/CS_7641
 
 ## Environment
 
-1. This project is run under Jython Environment in Eclipse PyDec
+1. This project is run under Jython 2.7 Environment in Eclipse PyDec
 2. This project used ABAGAIL package with some modifications
 3. The output folders (NNOUTPUT, CONTPKS, FLIPFLOP, TSP) need to be created in the same folder as the Jython code
 4. The NN-plot.ipynb and OR-plot.ipynb run in jupyternotebook and generates output plots.
