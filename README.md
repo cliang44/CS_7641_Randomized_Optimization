@@ -21,10 +21,10 @@ In order to get the `NN-*` scripts to run on different sets of hidden layers, yo
 ## Execution 
 
 For the neural network problem, run:
- - NN-Backprop.py
- - NN-GA.py
- - NN-RHC.py
- - NN-SA.py
+ - NN_backprop.py
+ - NN_ga.py
+ - NN_rhc.py
+ - NN_sa.py
  
  For the three randomized optimization problems, run:
  - continuoutpeaks.py
